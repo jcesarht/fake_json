@@ -1,5 +1,5 @@
 {
-    "events": [
+  "events": [
     {
       "id": 5928101,
       "category": "animal welfare",
@@ -10,7 +10,9 @@
       "time": "12:00",
       "petsAllowed": true,
       "organizer": "Kat Laydee"
-    },
+    }
+  ],
+  [
     {
       "id": 4582797,
       "category": "food",
@@ -21,7 +23,9 @@
       "time": "10:00",
       "petsAllowed": true,
       "organizer": "Fern Pollin"
-    },
+    }
+  ],
+  [
     {
       "id": 8419988,
       "category": "sustainability",
