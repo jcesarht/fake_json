@@ -1,37 +1,180 @@
 {
-    "events": [
+  "events": [
     {
-      "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
-      "date": "January 28, 2022",
-      "time": "12:00",
+      "id": 987654,
+      "category": "community service",
+      "title": "Park Beautification Day",
+      "description": "Join us in making our local park more beautiful!",
+      "location": "Green Valley Park",
+      "date": "May 5, 2024",
+      "time": "09:00",
       "petsAllowed": true,
-      "organizer": "Kat Laydee"
+      "organizer": "Sam GreenThumb"
     },
     {
-      "id": 4582797,
+      "id": 654321,
+      "category": "education",
+      "title": "STEM Workshop for Kids",
+      "description": "Exciting hands-on activities to spark interest in STEM fields.",
+      "location": "TechTown Community Center",
+      "date": "June 18, 2024",
+      "time": "14:00",
+      "petsAllowed": false,
+      "organizer": "Dr. Tech Savvy"
+    },
+    {
+      "id": 321789,
+      "category": "arts & culture",
+      "title": "Street Art Festival",
+      "description": "Celebrate creativity with live music, food, and amazing street art.",
+      "location": "Downtown Arts District",
+      "date": "August 30, 2024",
+      "time": "16:00",
+      "petsAllowed": true,
+      "organizer": "Ava Artistic"
+    },
+    {
+      "id": 112233,
+      "category": "health & wellness",
+      "title": "Yoga in the Park",
+      "description": "Relax and rejuvenate with outdoor yoga sessions.",
+      "location": "Sunset Park",
+      "date": "September 10, 2024",
+      "time": "08:30",
+      "petsAllowed": false,
+      "organizer": "Yogi Zen"
+    },
+    {
+      "id": 445566,
       "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
-      "date": "March 14, 2022",
+      "title": "Farmers' Market",
+      "description": "Shop fresh local produce and artisanal goods.",
+      "location": "Main Street Square",
+      "date": "October 5, 2024",
       "time": "10:00",
       "petsAllowed": true,
-      "organizer": "Fern Pollin"
+      "organizer": "Farm Fresh Co-op"
     },
     {
-      "id": 8419988,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
+      "id": 778899,
+      "category": "community service",
+      "title": "River Cleanup",
+      "description": "Pitch in to keep our waterways clean and beautiful.",
+      "location": "Riverfront Park",
+      "date": "November 15, 2024",
+      "time": "09:30",
+      "petsAllowed": true,
+      "organizer": "Water Guardians"
+    },
+    {
+      "id": 112233,
+      "category": "animal welfare",
+      "title": "Dog Adoption Day",
+      "description": "Find your new canine companion at this event.",
+      "location": "Paws & Claws Shelter",
+      "date": "December 1, 2024",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Puppy Love Rescue"
+    },
+    {
+      "id": 445566,
+      "category": "environment",
+      "title": "Tree Planting",
+      "description": "Help green our community by planting trees in local parks.",
+      "location": "Greenway Park",
+      "date": "January 20, 2025",
       "time": "11:00",
+      "petsAllowed": true,
+      "organizer": "Green Thumb Society"
+    },
+    {
+      "id": 778899,
+      "category": "arts & culture",
+      "title": "Cultural Diversity Festival",
+      "description": "Celebrate the rich tapestry of our community's cultures.",
+      "location": "City Center Plaza",
+      "date": "February 8, 2025",
+      "time": "14:00",
       "petsAllowed": false,
-      "organizer": "Carey Wales"
-    }
+      "organizer": "Global Harmony Coalition"
+    },
+    {
+      "id": 112233,
+      "category": "education",
+      "title": "Literacy Fair",
+      "description": "Promoting reading and literacy for all ages.",
+      "location": "Public Library",
+      "date": "March 12, 2025",
+      "time": "10:30",
+      "petsAllowed": false,
+      "organizer": "Bookworm Society"
+    },
+    {
+      "id": 445566,
+      "category": "health & wellness",
+      "title": "Wellness Expo",
+      "description": "Discover holistic health solutions and wellness practices.",
+      "location": "Wellness Center",
+      "date": "April 5, 2025",
+      "time": "09:00",
+      "petsAllowed": false,
+      "organizer": "Wellness Alliance"
+    },
+    {
+      "id": 778899,
+      "category": "community service",
+      "title": "Food Drive",
+      "description": "Support those in need by donating non-perishable food items.",
+      "location": "Community Center",
+      "date": "May 20, 2025",
+      "time": "12:00",
+      "petsAllowed": false,
+      "organizer": "Food for All"
+    },
+    {
+      "id": 112233,
+      "category": "environment",
+      "title": "Recycling Workshop",
+      "description": "Learn about the importance of recycling and how to do it effectively.",
+      "location": "Recycling Center",
+      "date": "June 8, 2025",
+      "time": "15:00",
+      "petsAllowed": false,
+      "organizer": "Eco Warriors"
+    },
+    {
+      "id": 445566,
+      "category": "animal welfare",
+      "title": "Pet Microchipping Clinic",
+      "description": "Protect your pets with microchipping services at a discounted rate.",
+      "location": "Pet Haven Clinic",
+      "date": "July 2, 2025",
+      "time": "11:30",
+      "petsAllowed": true,
+      "organizer": "Safe Pets Initiative"
+    },
+    {
+      "id": 778899,
+      "category": "arts & culture",
+      "title": "Concert in the Park",
+      "description": "Enjoy live music performances in a beautiful outdoor setting.",
+      "location": "Harmony Park",
+      "date": "August 15, 2025",
+      "time": "18:00",
+      "petsAllowed": true,
+      "organizer": "Melody Masters"
+    },
+    {
+      "id": 112233,
+      "category": "education",
+      "title": "Coding Bootcamp",
+      "description": "Intensive coding program for aspiring developers.",
+      "location": "Tech Academy",
+      "date": "September 9, 2025",
+      "time": "10:00",
+      "petsAllowed": false,
+      "organizer": "CodeCrafters"
+    },
   ]
 }
